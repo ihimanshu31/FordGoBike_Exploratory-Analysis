@@ -9,8 +9,9 @@ Project:5 -Communicate Data Findings (Ford GoBike )
 
   I will perform an exploratory analysis on data provided by Ford GoBike, a bike-share system provider.
 
-   Dataset :https://www.fordgobike.com/system-data
-            https://s3.amazonaws.com/baywheels-data/index.html 
+   Dataset  :https://www.fordgobike.com/system-data
+            : https://s3.amazonaws.com/baywheels-data/index.html 
+            
             i.e.  201904-fordgobike-tripdata.csv.zip
 
 
